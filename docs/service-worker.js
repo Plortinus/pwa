@@ -1,4 +1,4 @@
-importScripts("/precache-manifest.2ba6df450de1bdd8acbbf0e39d119b6a.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("precache-manifest.2abf45a19a0fd852b98ec35267b593bb.js", "https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 /* eslint-disable no-undef */
 // 设置相应缓存的名字的前缀和后缀
